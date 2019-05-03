@@ -78,7 +78,7 @@ div.ball {
 }
 
 .background {
-  background-image: url("../images/test11.jpg");
+  background-image: url("images/test11.jpg");
   background-size: cover;
   display: block;
   top: 0;
